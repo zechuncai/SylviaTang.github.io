@@ -189,3 +189,10 @@ iframe{
 p.type {
 	text-align:right;
 }
+
+#time1 {
+	font-size: 0.8em;
+	text-align:center;
+	color: #595959;
+}
+	
