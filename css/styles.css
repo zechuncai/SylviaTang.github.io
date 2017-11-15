@@ -23,6 +23,30 @@ body {
 	background: #FFFFFF;
 }
 
+.MenuWrap {
+	background-color: #ffffff;
+	font-family: San Francisco, sans-serif;
+	font-size: 1rem;
+	min-height: 2.5rem;
+	display: flex;
+	align-items: center;
+	padding: 0 1rem;
+}
+
+.ListItem,
+.LastItem {
+	color: #595959;
+	text-decoration: none;
+}
+
+.ListItem {
+	margin-right: 1.5rem;
+}
+
+.LastItem {
+	margin-left: auto;
+}
+
 h1 {
 	color: #595959;
 	font-family:San Francisco;
@@ -54,12 +78,12 @@ input, section {
 }
 
 label {
-  font-weight: 700;
-  font-size: 14.8px;
-  display: block;
+  font-weight: 600;
+  font-size: 13.5px;
+  display: inline-block;
   float: left;
-  width: 14.255%;
-  padding: 20px 26px;
+  width: 12%;
+  padding: 20px 16px;
   color: #595959;
   cursor: pointer;
   text-decoration: none;
@@ -74,7 +98,8 @@ label {
 #tab4:checked ~ #content4,
 #tab5:checked ~ #content5,
 #tab6:checked ~ #content6, 
-#tab7:checked ~ #content7
+#tab7:checked ~ #content7,
+#tab8:checked ~ #content8
 {
   display: block;
   padding: 20px;
@@ -124,6 +149,10 @@ label {
 
 .tab_container [id^="tab7"]:checked + label .fa {
   color: 	#FF0000;
+}
+
+.tab_container [id^="tab8"]:checked + label .fa {
+  color: 	#FFB90F;
 }
 
 label .fa {
