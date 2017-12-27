@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "Sylvia 個人學習blog"
+description: "Just try it."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
+locale: zh_TW # 本地化翻译
 url:
 feed:
   path: atom.xml
@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name:
-  email:
+  name: sylvia
+  email: minradeng@qq.com
   twitter:
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: 邓敏华 中山大学南方学院 16级网络与新媒体学生
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
