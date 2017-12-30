@@ -22,14 +22,14 @@ $border-radius               	: 3px;
 
 /*
    Color variables
-   Background : white #ffffff  http://encycolorpedia.cn/ffffff
+   Background : bwhite rgba(255,255,255,0.9)  http://encycolorpedia.cn/ffffff
    white #ffffff
    text-color: #595959
    ========================================================================== */
 
 $white                        : #fff; 
 $black                        : #000;
-$white                        : #ffffff;
+$bwhite                       : rgba(255,255,255,0.9);
 $GoldEnrod                    : #daa520;
 
 $body-color                  	: #ebebeb;
@@ -37,12 +37,12 @@ $body-color                  	: #ebebeb;
 $text-color                  	: #313130;
 $caption-color                : mix($white, $text-color, 25%);
 
-$base-color                  	: $white;
+$base-color                  	: $bwhite;
 $comp-color                  	: complement($base-color);
 $border-color                	: #ddd;
 $link-color                  	: #222;
 
-$primary-color               	: $white;
+$primary-color               	: $bwhite;
 $success-color               	: #2ecc71;
 $warning-color               	: #f1c40f;
 $danger-color                	: #e74c3c;
@@ -88,11 +88,11 @@ $form-font-size              	: $doc-font-size;
    Sliding menu navigation variables
    ========================================================================== */
 
-$sliding-menu-border-color	 	   : $white;
-$sliding-menu-background 		   : $white;
+$sliding-menu-border-color	 	   : $bwhite;
+$sliding-menu-background 		   : $bwhite;
 $sliding-menu-color 	 		   : #595959;
-$sliding-menu-background-hover     : $white;
-$sliding-menu-color-hover	 	   : #595959;
+$sliding-menu-background-hover     : $bwhite;
+$sliding-menu-color-hover	 	   : $white;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
 $transition						   : 0.3s; // increase this to see the transformations in slow-motion
