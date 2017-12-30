@@ -20,14 +20,12 @@ $border-radius               	: 3px;
 /*
    Color variables
    Background : teal #008080  http://encycolorpedia.com/008080
-   奶油色／Cream #fffdd0
    text-color: white
    ========================================================================== */
 
 $white                        : #fff; 
 $black                        : #000;
 $teal                         : #008080
-$cream                        : #fffdd0;
 $lemon                        : #fff700;
 
 $body-color                  	: #ebebeb;
@@ -90,7 +88,7 @@ $sliding-menu-border-color	 	   : $teal;
 $sliding-menu-background 		   : $teal;
 $sliding-menu-color 	 		   : $white;
 $sliding-menu-background-hover     : $teal;
-$sliding-menu-color-hover	 	   : $cream;
+$sliding-menu-color-hover	 	   : $white;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
 $button-size		         	   : 30px;
 $transition						   : 0.3s; // increase this to see the transformations in slow-motion
