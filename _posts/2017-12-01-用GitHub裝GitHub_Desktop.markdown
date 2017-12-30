@@ -1,8 +1,11 @@
 ---
-layout: default
-title:  "欲用GitHub空間，可先自裝GitHub Desktop"
+layout: article
+title:  "可裝GitHub Desktop"
 date:   2017-12-01 22:07:50 +0800
-categories: Jekyll GitHub update
+categories: posts Jekyll
+image:
+  teaser: github-desktop-icon.svg
+  feature: github-desktop-icon.svg
 ---
 欲用 `GitHub` 空間，可先自裝 [GitHub Desktop][GitHub_Desktop] 這開發環境工具。
 
@@ -19,7 +22,7 @@ categories: Jekyll GitHub update
 
 在知乎上有[一个文科妹子分享了其半年摸索才明白的經驗][文科妹子用GitHub]，可以參考。
 
- 
+
 [GitHub_Desktop]: https://desktop.github.com/
 [Github官网]: https://github.com/
 [文科妹子用GitHub]: https://www.zhihu.com/question/20070065 
