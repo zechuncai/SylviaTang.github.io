@@ -89,7 +89,7 @@
     @include media($large) {
       margin-right: 20%;
     }
-    color: $#595959;
+    color: #595959;
     @include font-size(14);
     @include media($small) {
       @include font-size(16);
