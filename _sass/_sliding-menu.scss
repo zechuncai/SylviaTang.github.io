@@ -89,7 +89,7 @@
     @include media($large) {
       margin-right: 20%;
     }
-    color: $white;
+    color: $#595959;
     @include font-size(14);
     @include media($small) {
       @include font-size(16);
@@ -127,7 +127,7 @@
   .menu-item {
     a {
       display: block;
-      color: $white;
+      color: #595959;
       text-decoration: none;
     }
     .teaser {
