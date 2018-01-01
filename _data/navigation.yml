@@ -10,12 +10,12 @@
   excerpt: 往期tableau作品
   image: visualization.gif
   
-- title: 学习笔记
-  url: /notes/
+- title: web笔记
+  url: /posts/rwd/
   excerpt: 记录知识点
   image: notes.gif
   
-- title: 联络我
-  url: /contact/
+- title: 信息可视化笔记
+  url: /posts/infovis/
   excerpt: "Github: SylviaTang"
   image: contact me.gif   
