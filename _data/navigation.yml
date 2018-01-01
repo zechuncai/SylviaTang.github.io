@@ -11,11 +11,11 @@
   image: visualization.gif
   
 - title: web笔记
-  url: /posts/rwd/
+  url: /notes/rwd/
   excerpt: 记录知识点
   image: notes.gif
   
 - title: 信息可视化笔记
-  url: /posts/infovis/
+  url: /notes/infovis/
   excerpt: "Github: SylviaTang"
   image: contact me.gif   
