@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "信息可视化作品"
+title: "信息可视化作品集"
 date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "以下是可视化作品集"
+excerpt: "꒰⑅•ᴗ•⑅꒱"
 tags: []
 image: 
   feature: visualization.gif
