@@ -8,7 +8,7 @@ image:
   feature: github-desktop-icon.svg
 ---
 
-从大一下学期开始接触github，到现在积累了一定经验，也是感慨良多。
+一份接触了github desktop大半年的网新妹纸的个人经验。
 
 ## 如何安装 GitHub Desktop？
 
@@ -18,8 +18,7 @@ image:
 ## 初次打开GitHub Desktop？ 
 
 - 登陆账号。
-- **选择好你的存放路径。(这是非常非常重要的！！画重点！！)我选择的路径是 C:\Users\asus (建议放在你熟悉的盘，别乱设置，免得以后找不到)
-- 
+- 选择好你的存放路径。(这是非常非常重要的！！画重点！！)我选择的路径是 C:\Users\asus (建议放在你熟悉的盘，别乱设置，免得以后找不到)
 
 ## 怎样使用 GitHub desktop？
 
