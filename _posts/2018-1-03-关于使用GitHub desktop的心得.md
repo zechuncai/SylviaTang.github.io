@@ -2,7 +2,7 @@
 layout: article
 title:  "关于使用GitHub desktop的心得"
 date:   2017-12-01 22:07:50 +0800
-categories: posts Jekyll
+categories: posts rwd
 image:
   teaser: github-desktop-icon.svg
   feature: github-desktop-icon.svg
