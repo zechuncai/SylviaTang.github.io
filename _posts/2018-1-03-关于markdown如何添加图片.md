@@ -2,7 +2,7 @@
 layout: article
 title:  "关于markdown如何添加图片"
 date:   2018-1-3 14:01:50 +0800
-categories: posts infovis
+categories: posts infovisnotes
 image:
   teaser: md.png
   feature: md.png
