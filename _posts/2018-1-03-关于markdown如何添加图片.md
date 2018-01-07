@@ -8,6 +8,7 @@ image:
   feature: md.png
 ---
 
+markdown添加图片的方法 & 分享软件·有道云笔记
 ## markdown添加图片的方法
 
 我一开始用的是<a href="http://jiantuku.com/#/" target="_blank">极简图床</a>.这个图床需要注册账号，然后选择上传方式的时候，可以选择用微博图床或者登录七牛账号获得储存空间。另外，需要安装chrome插件。
@@ -21,3 +22,9 @@ image:
 - 缺点：不能回看之前上传了什么图片。极简图床可以。
 
 其实国内还有很多图床，<a href="https://www.qiniu.com/" target="_blank">七牛</a>也是一个挺不错的选择。如果有更高要求的可以尝试一下这个。
+
+## 有道云
+1. [有道云下载地址](http://note.youdao.com/noteintro.html)
+
+### 相关教程
+- [有道云笔记Markdown指南](http://note.youdao.com/iyoudao/?p=2445)
