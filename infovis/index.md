@@ -6,11 +6,11 @@ modified:
 excerpt: ""
 tags: []
 image: 
-  feature: visualization.gif
+  feature: mail.png
   teaser:
 ---
 
-- <a href="https://sylviatang.github.io/infovis/visualization/%E6%9C%9F%E6%9C%AB%E9%A1%B9%E7%9B%AE/" target="_blank">![数据分析.png](https://i.loli.net/2018/01/07/5a51dae1bd0a2.png)</a>
+- <a href="https://sylviatang.github.io/posts/%E6%9C%9F%E6%9C%AB%E9%A1%B9%E7%9B%AE/" target="_blank">![数据分析.png](https://i.loli.net/2018/01/07/5a51dae1bd0a2.png)</a>
 
 其他作品
 <div class="tiles">
