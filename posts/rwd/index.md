@@ -3,11 +3,9 @@ layout: archive
 title: "网页设计笔记"
 date: 2018-1-1T14:25:45-04:00
 modified:
-excerpt: "( ´·ᴗ·` )"
+excerpt: "给你看"
 tags: []
-image: 
-  feature: notes.gif
-  teaser:
+
 ---
 
 
