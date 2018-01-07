@@ -2,20 +2,20 @@
 
 - title: 网页设计作品集
   url: /portfolio/
-  excerpt: 往期网页作品
+  excerpt: 期中网页作品
   image: 喜羊羊.gif
   
 - title: 信息可视化作品集
   url: /infovis/
-  excerpt: 往期tableau作品
+  excerpt: 小组及个人作品
   image: two.gif
   
 - title: web笔记
   url: /posts/rwd/
-  excerpt: 记录知识点
+  excerpt: 学习笔记
   image: one.gif
   
-- title: 信息可视化笔记
-  url: /posts/infovis/
+- title: 联系我
+  url: /contact
   excerpt: "Github: SylviaTang"
   image: three.gif   
