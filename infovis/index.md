@@ -10,6 +10,8 @@ image:
   teaser:
 ---
 
+- <a href="https://public.tableau.com/views/1_5302/1_1?:embed=y&:display_count=yes&publish=yes" target="_blank">![仪表板 1.png](https://i.loli.net/2018/01/08/5a52b3382378c.png)</a>
+
 其他作品
 <div class="tiles">
 {% for post in site.categories.visualization %}
