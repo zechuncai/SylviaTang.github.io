@@ -15,7 +15,7 @@
   excerpt: 学习笔记
   image: one.gif
   
- - title: 可视化笔记
+- title: 可视化笔记
   url: /posts/infovis/
   excerpt: 学习笔记
   image: one.gif
@@ -24,3 +24,4 @@
   url: /contact/
   excerpt: "Github: zechuncai"
   image: three.gif   
+
