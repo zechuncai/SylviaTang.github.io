@@ -2,7 +2,7 @@
 layout: article
 title:  "心得体会"
 date:   2017-12-07 23:45:15 +0800
-categories: posts rwd
+categories: posts infovis infovisnotes
 image:
   teaser: xinde.jpg
   feature: xinde.jpg
