@@ -1,0 +1,10 @@
+---
+layout: article
+title:  "web杂记"
+date:   2018-01-21 23:45:15 +0800
+categories: posts rwd
+image:
+  teaser: shabi.jpg
+  feature: shabi.jpg
+--- 
+文章摘要：这是一篇关于这一整年读书的笔记，里面十分杂乱，有各种各样的东西，反正能记得的东西都写上去了，算杂记吧
